@@ -1,0 +1,6 @@
+function sayHello(firstName){console.("Hello, ${firstName}!")
+}
+
+sayHello("YOU Bithch")
+sayHello("Izzy")
+sayHello("Janethania")

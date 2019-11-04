@@ -1,0 +1,10 @@
+var word;
+word = 'bird';
+console.log(word)
+// "print varible bird on the console"
+word = 'dog';
+console.log(word);
+// "print variable bird on console";
+var word = 'bird';
+window.word;
+var cool = 5, b = 2, c = 'hello';
